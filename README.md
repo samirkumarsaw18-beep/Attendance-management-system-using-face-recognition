@@ -8,7 +8,10 @@
 
 An intelligent Attendance Management System that uses **Face Recognition** technology to automatically identify students and mark attendance. The system eliminates manual attendance, reduces proxy attendance, and provides an accurate and efficient attendance tracking solution.
 
----
+-----
+https://samirkumarsaw18-beep.github.io/Attendance-management-system-using-face-recognition/
+
+-----
 
 # 📌 Features
 
